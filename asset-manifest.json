@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Drag-and-Drop/static/css/main.29f08d4a.chunk.css",
+    "main.js": "/Drag-and-Drop/static/js/main.73d3e91d.chunk.js",
+    "main.js.map": "/Drag-and-Drop/static/js/main.73d3e91d.chunk.js.map",
+    "runtime-main.js": "/Drag-and-Drop/static/js/runtime-main.6f3e22b5.js",
+    "runtime-main.js.map": "/Drag-and-Drop/static/js/runtime-main.6f3e22b5.js.map",
+    "static/js/2.4228b517.chunk.js": "/Drag-and-Drop/static/js/2.4228b517.chunk.js",
+    "static/js/2.4228b517.chunk.js.map": "/Drag-and-Drop/static/js/2.4228b517.chunk.js.map",
+    "static/js/3.8e4448a5.chunk.js": "/Drag-and-Drop/static/js/3.8e4448a5.chunk.js",
+    "static/js/3.8e4448a5.chunk.js.map": "/Drag-and-Drop/static/js/3.8e4448a5.chunk.js.map",
+    "index.html": "/Drag-and-Drop/index.html",
+    "static/css/main.29f08d4a.chunk.css.map": "/Drag-and-Drop/static/css/main.29f08d4a.chunk.css.map",
+    "static/js/2.4228b517.chunk.js.LICENSE.txt": "/Drag-and-Drop/static/js/2.4228b517.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f3e22b5.js",
+    "static/js/2.4228b517.chunk.js",
+    "static/css/main.29f08d4a.chunk.css",
+    "static/js/main.73d3e91d.chunk.js"
+  ]
+}
